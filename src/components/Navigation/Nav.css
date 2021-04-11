@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: lightyellow;
+    font-weight: bold;
+    height: 100px;
+}
+
+
+.button-style {
+    height: 30px;
+    width: 100px;
+    background: lightseagreen;
+    border-radius: 10px;
+}
